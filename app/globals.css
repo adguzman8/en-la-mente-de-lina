@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --rosa-principal: #E8AFAF;
+  --rosa-acento: #D97B7B;
+  --rosa-light: #F5D5D5;
+  --cafe: #5A3E36;
+  --cafe-light: #7A5C52;
+  --verde: #7A9E7E;
+  --verde-claro: #DCE8DE;
+  --beige: #F5E9E2;
+  --crema: #FAF6F3;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--crema);
+  color: var(--cafe);
+  font-family: 'DM Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--crema);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--rosa-principal);
+  border-radius: 3px;
+}
+
+/* Gardenia decorative element */
+.gardenia-bg {
+  background-image: radial-gradient(ellipse at 20% 50%, rgba(232, 175, 175, 0.15) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 20%, rgba(220, 232, 222, 0.2) 0%, transparent 50%),
+    radial-gradient(ellipse at 50% 80%, rgba(245, 233, 226, 0.3) 0%, transparent 40%);
+}
+
+.section-divider {
+  background: linear-gradient(90deg, transparent, var(--rosa-principal), var(--verde), transparent);
+  height: 1px;
+  opacity: 0.4;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .animate-delay-100 { animation-delay: 0.1s; }
+  .animate-delay-200 { animation-delay: 0.2s; }
+  .animate-delay-300 { animation-delay: 0.3s; }
+  .animate-delay-400 { animation-delay: 0.4s; }
+  .animate-delay-500 { animation-delay: 0.5s; }
+}
