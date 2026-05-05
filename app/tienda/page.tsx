@@ -64,8 +64,19 @@ const productos = [
     emoji: '🧠',
     nombre: 'Kit Sensorial Básico',
     descripcion: 'Materiales de regulación sensorial para niños: texturas, masas, elementos visuales y auditivos seleccionados con criterio terapéutico.',
-    precio: 60000,
+    precio: 10000,
     badge: 'Recomendado',
+    badge_color: 'bg-cafe text-white',
+    bg: 'from-beige to-verde-claro',
+  },
+    {
+    id: 8,
+    categoria: 'sensorial',
+    emoji: '🧠',
+    nombre: 'Kit Sensorial Básico',
+    descripcion: 'Materiales de regulación sensorial para niños: texturas, masas, elementos visuales y auditivos seleccionados con criterio terapéutico.',
+    precio: 10000,
+    badge: '',
     badge_color: 'bg-cafe text-white',
     bg: 'from-beige to-verde-claro',
   },
@@ -176,7 +187,7 @@ export default function TiendaPage() {
                       <div className="flex items-center justify-between">
                         <span className="font-display text-xl font-semibold text-rosa-acento">{formatPrecio(p.precio)}</span>
                         <a
-                          href={`https://wa.me/573000000000?text=Hola%20Lina,%20quiero%20comprar:%20${encodeURIComponent(p.nombre)}`}
+                          href={`https://wa.me/573167209974?text=Hola%20Lina,%20quiero%20comprar:%20${encodeURIComponent(p.nombre)}`}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-1.5 px-4 py-2 bg-verde text-white text-sm font-body font-medium rounded-full hover:bg-verde-dark transition-colors"

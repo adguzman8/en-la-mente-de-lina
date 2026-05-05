@@ -133,7 +133,7 @@ export default function ServiciosPage() {
                   </div>
                   <div className="mt-6">
                     <a
-                      href={`https://wa.me/573000000000?text=Hola%20Lina,%20me%20interesa%20el%20servicio%20de:%20${encodeURIComponent(s.titulo)}`}
+                      href={`https://wa.me/573167209974?text=Hola%20Lina,%20me%20interesa%20el%20servicio%20de:%20${encodeURIComponent(s.titulo)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-2 px-6 py-3 bg-rosa-acento text-white font-body font-medium rounded-full hover:bg-cafe transition-colors text-sm"
@@ -157,7 +157,7 @@ export default function ServiciosPage() {
             Es completamente normal no saber por dónde empezar. Escríbeme y con gusto te oriento sin ningún compromiso.
           </p>
           <a
-            href="https://wa.me/573000000000"
+            href="https://wa.me/573167209974"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-7 py-3.5 bg-cafe text-white font-body font-medium rounded-full hover:bg-rosa-acento transition-colors"

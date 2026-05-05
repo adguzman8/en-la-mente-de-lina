@@ -211,7 +211,7 @@ export default function ContenidoPage() {
           </div>
 
           <a
-            href="https://instagram.com/"
+            href="https://instagram.com/enlamentedelina"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-7 py-3.5 bg-gradient-to-r from-rosa-acento to-cafe text-white font-body font-medium rounded-full hover:opacity-90 transition-opacity"

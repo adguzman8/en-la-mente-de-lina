@@ -60,7 +60,7 @@ export default function Footer() {
             <h4 className="font-accent text-sm font-medium text-rosa-principal mb-4 uppercase tracking-wider">Contacto</h4>
             <div className="space-y-3">
               <a
-                href="https://wa.me/573000000000"
+                href="https://wa.me/573167209974"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-white/60 hover:text-rosa-principal transition-colors"
@@ -69,7 +69,7 @@ export default function Footer() {
                 <span className="font-body text-sm">WhatsApp</span>
               </a>
               <a
-                href="https://instagram.com/"
+                href="https://instagram.com/enlamentedelina"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-white/60 hover:text-rosa-principal transition-colors"
@@ -88,7 +88,7 @@ export default function Footer() {
 
             <div className="mt-6">
               <a
-                href="https://wa.me/573000000000?text=Hola%20Lina,%20quiero%20agendar%20una%20cita"
+                href="https://wa.me/573167209974?text=Hola%20Lina,%20quiero%20agendar%20una%20cita"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block px-5 py-2.5 bg-rosa-acento text-white text-sm font-body font-medium rounded-full hover:bg-rosa-principal transition-colors"

@@ -80,7 +80,7 @@ export default function TiendaPreview() {
                 <div className="flex items-center justify-between">
                   <span className="font-display text-lg font-semibold text-rosa-acento">{p.precio}</span>
                   <a
-                    href={`https://wa.me/573000000000?text=Hola%20Lina,%20quiero%20comprar:%20${encodeURIComponent(p.nombre)}`}
+                    href={`https://wa.me/573167209974?text=Hola%20Lina,%20quiero%20comprar:%20${encodeURIComponent(p.nombre)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-1 px-3 py-1.5 bg-verde text-white text-xs font-body font-medium rounded-full hover:bg-verde-dark transition-colors"

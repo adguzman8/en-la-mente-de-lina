@@ -87,7 +87,7 @@ export default function ServiciosDestacados() {
               </p>
             </div>
             <a
-              href="https://wa.me/573000000000?text=Hola%20Lina,%20quiero%20agendar%20una%20cita"
+              href="https://wa.me/573167209974?text=Hola%20Lina,%20quiero%20agendar%20una%20cita"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 bg-white text-cafe text-sm font-body font-medium rounded-full hover:bg-beige transition-colors self-start"

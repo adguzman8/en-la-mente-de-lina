@@ -22,7 +22,7 @@ export default function CTAFinal() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="https://wa.me/573000000000?text=Hola%20Lina,%20quiero%20agendar%20una%20cita"
+            href="https://wa.me/573167209974?text=Hola%20Lina,%20quiero%20agendar%20una%20cita"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-rosa-acento text-white font-body font-medium text-base rounded-full hover:bg-cafe transition-all duration-200 shadow-lg hover:shadow-xl group"
@@ -32,7 +32,7 @@ export default function CTAFinal() {
             <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
           </a>
           <a
-            href="https://wa.me/573000000000"
+            href="https://wa.me/573167209974"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-4 border-2 border-cafe/20 text-cafe font-body font-medium text-base rounded-full hover:border-rosa-acento hover:text-rosa-acento transition-all duration-200"

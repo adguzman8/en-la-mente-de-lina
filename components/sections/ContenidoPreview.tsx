@@ -85,7 +85,7 @@ export default function ContenidoPreview() {
           </div>
           <div className="flex gap-3">
             <a
-              href="https://instagram.com/"
+              href="https://instagram.com/enlamentedelina"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 bg-gradient-to-r from-rosa-acento to-cafe text-white text-sm font-body font-medium rounded-full hover:opacity-90 transition-opacity"

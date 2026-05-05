@@ -48,7 +48,7 @@ export default function ContactoPage() {
 
               {/* Métodos de contacto */}
               <a
-                href="https://wa.me/573000000000"
+                href="https://wa.me/573167209974"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-start gap-4 p-4 bg-green-50 rounded-2xl hover:bg-green-100 transition-colors group"
@@ -58,13 +58,13 @@ export default function ContactoPage() {
                 </div>
                 <div>
                   <p className="font-accent font-medium text-cafe">WhatsApp</p>
-                  <p className="font-body text-sm text-cafe-light">+57 300 000 0000</p>
+                  <p className="font-body text-sm text-cafe-light">+57 316 720 9974</p>
                   <p className="font-body text-xs text-verde mt-1">Respuesta rápida ✓</p>
                 </div>
               </a>
 
               <a
-                href="https://instagram.com/"
+                href="https://instagram.com/enlamentedelina"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-start gap-4 p-4 bg-rosa-light/30 rounded-2xl hover:bg-rosa-light/50 transition-colors"
@@ -136,7 +136,7 @@ export default function ContactoPage() {
                     Te responderé pronto. Si necesitas respuesta urgente, escríbeme por WhatsApp.
                   </p>
                   <a
-                    href="https://wa.me/573000000000"
+                    href="https://wa.me/573167209974"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mt-6 inline-flex items-center gap-2 px-6 py-3 bg-rosa-acento text-white font-body font-medium rounded-full hover:bg-cafe transition-colors text-sm"
@@ -247,7 +247,7 @@ export default function ContactoPage() {
             ¿Prefieres algo más inmediato?
           </p>
           <a
-            href="https://wa.me/573000000000?text=Hola%20Lina,%20quiero%20agendar%20una%20cita"
+            href="https://wa.me/573167209974?text=Hola%20Lina,%20quiero%20agendar%20una%20cita"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-7 py-3.5 bg-[#25D366] text-white font-body font-medium rounded-full hover:opacity-90 transition-opacity shadow-md"
