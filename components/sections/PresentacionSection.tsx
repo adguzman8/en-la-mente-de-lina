@@ -15,7 +15,7 @@ export default function PresentacionSection() {
                   src="/lina_psicologia.jpg"
                   alt="Lina - Psicóloga"
                   fill
-                  className="object-cover object-down"
+                  className="object-cover object-bottom"
                   priority
                 />
               </div>

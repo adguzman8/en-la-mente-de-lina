@@ -34,7 +34,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group">
             <Image
-              src={"/EnLaMenteDeLinaLogo.png"}
+              src="/EnLaMenteDeLinaLogo.png"
               alt="Lina - Psicóloga"
               width={170}
               height={80}

@@ -71,7 +71,7 @@ export default function SobreLinaPage() {
                 {/* Blob container */}
                 <div className="w-64 h-64 sm:w-72 sm:h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-[30%_70%_70%_30%/30%_30%_70%_70%] bg-gradient-to-br from-rosa-light via-beige to-verde-claro overflow-hidden shadow-2xl flex items-center justify-center">
                   <Image
-                    src="/Lina_psicologia.jpg"
+                    src="/lina_psicologia.jpg"
                     alt="Lina psicóloga"
                     width={220}
                     height={220}
